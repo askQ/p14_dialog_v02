@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">p14</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="choice">問題文字</string>
+    <string name="yes">確定</string>
+    <string name="no">取消</string>
+    <string name="pic">圖片</string>
+    <string name="new_contact">內容...</string>
+    <string name="next_step">下一步</string>
+    <string name="first_step">第一步</string>
+
+</resources>
